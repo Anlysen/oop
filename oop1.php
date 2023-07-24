@@ -10,7 +10,7 @@ $product3 = new ShoppingCart();
 
 var_dump($product1 instanceof ShoppingCart);
 var_dump($product2 instanceof ShoppingCart);
-var_dump($product3 instanceof Shopping);
+var_dump($product3 instanceof ShoppingCart);
 
 
 ?>
