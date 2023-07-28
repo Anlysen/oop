@@ -28,8 +28,8 @@ class User4 {
 }
 
 $user1 = new User4();
-$user1->name = "Andrew";
-$user1->getName();
+$user1->name = "Andrew"; // Обращение к свойству $name
+$user1->getName(); // Задаём получение метода getName(), вызывая следующую функцию test()
 
 
 
